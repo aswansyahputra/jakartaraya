@@ -21,3 +21,5 @@ Imports:
     readr,
     stringr
 RoxygenNote: 6.1.1
+URL: https://github.com/aswansyahputra/jakartaraya
+BugReports: https://github.com/aswansyahputra/jakartaraya/issues
