@@ -1,0 +1,23 @@
+Package: jakartaraya
+Title: Jakarta Raya
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Muhammad Aswan",
+           family = "Syahputra",
+           role = c("aut", "cre"),
+           email = "aswansyahputra@sensolution.id")
+Description: Antarmuka R untuk Open Data Kota Jakarta. Saat ini
+    tersedia sekitar 2450 dataset yang dapat diunduh.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 2.10)
+Imports: 
+    dplyr,
+    janitor,
+    magrittr,
+    purrr,
+    readr,
+    stringr
+RoxygenNote: 6.1.1
